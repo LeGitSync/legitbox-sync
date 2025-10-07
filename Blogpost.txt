@@ -1,0 +1,9 @@
+This blog post is about the evolution of AI 
+
+We think you can separate the evolution of AI in three different waves 
+
+Wave 1: CHATGPT the UI Wrapper around an LLM API 
+
+Wave2: Chatgpr and LLm start to read. Read my pdf, read blog post from a URL and so on
+
+Wave3: CHatgpt starts to write. Writing on top of your data and files. It doesn't matter whether it's Excalidarw, n8n, Word, or Excel, they're all data or files. 
